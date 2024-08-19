@@ -16,13 +16,4 @@ export default function App() {
         </div>
 
 
-        <div className='flex flex-col items-center justify-center text-gray-400 text-wrap'>
-          <a href='https://archive.markusevanger.no' className="cursor-pointer underline">visit old site</a>
-          <p className='text-wrap'>markusevanger@gmail.com</p>
-        </div>
-      </div>
-    </>
-  )
-}
-
-
+        <div 
